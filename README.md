@@ -1,5 +1,32 @@
 <h1 align="center">Hi 👋, I'm chaithanya</h1>
-<h3 align="center">A passionate DevOps Engineer </h3>
+<h3 align="center"> DevOps Engineer </h3>
+
+<h2>This github profile contains 10+ projects with complete CICD  Jenkins Pipelines</h2>
+![imageone-1](https://user-images.githubusercontent.com/111736742/227798580-da696cd7-d959-4c72-b4ef-bedde554a6af.jpeg)
+
+
+<h2>-->Project-1  Tools used(git,Github,Jenkins,SonarQube,Nexus,ApacheTomcatServer)</h2>
+
+
+<h2>-->Project-2  Tools used(git,Github,Jenkins,Maven,SonarQube,Nexus-as Docker-registry,Docker)</h2>
+  
+<h2>-->Project-3  Tools used(git,Github,Jenkins,Maven,DockerHub,Docker)</h2> 
+
+<h2>-->Project-4  Tools used(git,Github,Jenkins,DockerHub,Docker,Nginx)</h2>
+
+<h2>-->Project-5  Tools used(git,Github,Jenkins,DockerHub,DockerCompose)</h2>
+
+<h2>-->Project-6  Tools used(git,Github,Jenkins,SonarQube,Nexus,DockerHub,DockerSwarm,nginx)</h2>
+
+<h2>-->Project-7(MultiBranch-Pipeline)  Tools used(git,Github,Jenkins,DockerHub,Docker)</h2>
+
+<h2>-->Project-8(Blue-Green Deployment)  Tools used(git,Github,Jenkins,SonarQube,Nexus,DockerHub,DockerSwarm,nginx)</h2>
+
+<h2>-->Project-9  Tools used(git,Github,Jenkins,Maven,SonarQube,Nexus,Ansible,ApacheTomcat)</h2>
+
+<h2>-->Project-10  Tools used(git,Github,Jenkins,Maven,SonarQube,Nexus,DockerHub,Docker,Ansible,ApacheTomcat)</h2>
+
+<h2>-->Project-11  Tools used(git,Github,Jenkins,Maven,SonarQube,Nexus,Kubernetes,nfs)</h2>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
